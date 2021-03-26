@@ -1,5 +1,4 @@
 # my-website
 test repo.
 
-Update.
-
+Conflicting line of text.
